@@ -1,0 +1,33 @@
+h1 {
+  color: blue;
+}
+p {
+  color: purple;
+}
+p {
+  font-family: sans-serif;
+}
+ol {
+  line-height: 20px;
+  color: green;
+}
+p {
+  font-style: italic;
+  line-height: inherit;
+}
+p {
+  text-align: justify;
+   <strong  font-weight:bold>;
+ }
+strong {
+     color: red;
+   }
+strong {
+  font-style: italic:
+}
+em {
+   font-weight: bolder;
+ }
+em {
+  color: yellow;
+}
